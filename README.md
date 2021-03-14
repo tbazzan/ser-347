@@ -1,2 +1,2 @@
-# ser-347 Teste
+# ser-347
 Projeto da Disciplina SER-347
